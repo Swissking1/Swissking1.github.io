@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Senior Circuit Design Engineer, Circuit Solutions Group @ NVIDIA. Ph.D., UC, Berkeley (Power Electronics).
 
@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a power electronics engineer starting as a Senior Circuit Design Engineer in the Circuit Solutions Group at NVIDIA in August 2026. I recently completed my Ph.D. in Electrical Engineering at UC Berkeley, advised by [Dr. Robert Pilawa-Podgurski](https://pilawa-group.berkeley.edu/), where I primarily researched flying capacitor multilevel (FCML) converters: passive capacitor voltage balancing mechanisms, active flying capacitor voltage balancing controllers, buck-type PFC rectifiers and data center power delivery. Before Berkeley, I received my B.S. and M.Eng. in Electrical Engineering from MIT, working with [Dr. David Perreault](https://per.mit.edu/) on high-frequency magnetics.
+I'm a power electronics engineer starting as a Senior Circuit Design Engineer in the Circuit Solutions Group at NVIDIA in August 2026. I recently completed my Ph.D. in Electrical Engineering at UC Berkeley, advised by [Dr. Robert Pilawa-Podgurski](https://pilawa-group.berkeley.edu/), where I primarily researched flying capacitor multilevel (FCML) converters: passive flying capacitor voltage balancing mechanisms, active flying capacitor voltage controllers, buck-type PFC rectifiers and data center power delivery. Before Berkeley, I received my B.S. and M.Eng. in Electrical Engineering from MIT, working with [Dr. David Perreault](https://per.mit.edu/) on high-frequency magnetics.
 
 I'm a Hertz Foundation Fellow, and my work has been recognized with Best Paper and Best Presentation awards at the IEEE Applied Power Electronics Conference (APEC) and the IEEE Workshop on Control and Modeling for Power Electronics (COMPEL).
 {% comment %}
@@ -34,3 +34,12 @@ Outside of the lab, I'm an endurance athlete, currently training for the San Fra
 
 This site hosts my publications, CV, and will host occasional writing on power electronics and engineering topics.
 {% endcomment %}
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const cvLink = document.querySelector('a[href*="Roderick_Bayliss_CV.pdf"]');
+  if (cvLink) {
+    cvLink.setAttribute("target", "_blank");
+    cvLink.setAttribute("rel", "noopener");
+  }
+});
+</script>

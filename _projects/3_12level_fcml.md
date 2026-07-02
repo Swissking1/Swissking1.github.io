@@ -1,15 +1,20 @@
 ---
 layout: page
-title: 12-Level FCML Converter
-description: Buck-type PFC and FCML converter modeling and control
-img:
+title: 12-Level FCML Converter Prototype
+description: 
+img: assets/img/12_level_fcml.jpg
 importance: 3
 category: work
 related_publications: true
 ---
 
-A 12-level flying capacitor multilevel converter prototype used for buck-type PFC rectification and to validate FCML converter modeling and control techniques.
+A 12-level flying capacitor multilevel (FCML) converter prototype used for buck-type PFC rectification and to validate FCML converter modeling and control techniques.
 
-{% cite bayliss2026rectifier %}
+<div class="row justify-content-sm-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/12_level_fcml.jpg" title="12 Level FCML Converter" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
-<p class="text-muted">Prototype photo pending upload — see the original gallery photo at <a href="https://ieeexplore.ieee.org/document/10601504" target="_blank">ieeexplore.ieee.org</a>.</p>
+{% cite bayliss2026pfc %}
+{% cite bayliss2025coss %}
