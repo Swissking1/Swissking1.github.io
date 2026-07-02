@@ -1,0 +1,272 @@
+cv:
+  name: Roderick S. Bayliss III
+  label: Senior Circuit Design Engineer, Power Modeling & Simulation, NVIDIA
+  email: rodbay@berkeley.edu
+  location: Santa Clara, CA
+  image: ""
+  summary: Power electronics engineer specializing in flying capacitor multilevel (FCML) converters, control design, gate drive design, and LTspice simulation. PhD, UC Berkeley. Hertz Foundation Fellow.
+
+  social_networks:
+    - network: GitHub
+      username: Swissking1
+    - network: LinkedIn
+      username: rod-bayliss-iii-388b33125
+
+  sections:
+    Education:
+      - institution: University of California, Berkeley
+        location: Berkeley, CA
+        url: https://eecs.berkeley.edu/
+        area: Electrical Engineering
+        studyType: Ph.D.
+        start_date: 2021
+        end_date: 2026
+        courses: "Advisor: Robert Pilawa-Podgurski. Thesis: Dynamical Modeling and Control Design for the Flying Capacitor Multilevel Converter in High-Density, High-Efficiency AC/DC and DC/AC Applications"
+        highlights: []
+
+      - institution: Massachusetts Institute of Technology
+        location: Cambridge, MA
+        area: Electrical Engineering
+        studyType: M.Eng.
+        start_date: 2020
+        end_date: 2020
+        courses: "Advisor: David J. Perreault. Thesis: Design, Implementation, and Evaluation of High-Efficiency High-Power Radio-Frequency Inductors"
+        highlights: []
+
+      - institution: Massachusetts Institute of Technology
+        location: Cambridge, MA
+        area: Electrical Engineering
+        studyType: B.S.
+        start_date: 2015
+        end_date: 2019
+        highlights: []
+
+    Research Experience:
+      - company: University of California, Berkeley
+        position: Graduate Research Assistant — Advisor Robert Pilawa-Podgurski
+        location: Berkeley, CA
+        start_date: 2021-01
+        end_date: 2026-05
+        highlights:
+          - Developed and experimentally evaluated control algorithms for the FCML converter utilizing active flying capacitor voltage balancing to enable buck-type PFC rectifiers.
+          - Analyzed circuit dynamics and relevant parasitics of the FCML converter to characterize underlying dynamic behavior.
+          - Developed a high-performance FCML converter testbed to validate high-bandwidth controls and flying capacitor voltage estimation using a single voltage sensor.
+          - Integrated multiple high-performance FCML converter prototypes and developed motor control algorithms and firmware to enable a dynamometer testbed for high level count FCML converters.
+
+      - company: Massachusetts Institute of Technology
+        position: Graduate Research Assistant — Advisor David J. Perreault
+        location: Cambridge, MA
+        start_date: 2020-01
+        end_date: 2020-12
+        highlights:
+          - Designed and manufactured a high-efficiency, radio-frequency inductor for high-current applications.
+          - Designed a high-accuracy test fixture to characterize RF high-quality-factor inductors at high currents.
+
+      - company: Massachusetts Institute of Technology
+        position: Undergraduate Research Assistant — Advisor David J. Perreault
+        location: Cambridge, MA
+        start_date: 2018-01
+        end_date: 2019-12
+        highlights:
+          - Characterized core losses of high-frequency magnetic materials for power stage components operated at high frequencies.
+
+    Industry Experience:
+      - company: Tesla
+        position: Vehicle Performance Modeling Intern
+        location: Palo Alto, CA
+        start_date: 2023-06
+        end_date: 2023-12
+        highlights:
+          - Worked closely with power electronics, drive inverter, and cell engineering teams to understand the vehicle-level impact of new onboard charger and high-voltage vehicle architectures.
+
+      - company: SpaceX
+        position: Power Electronics Intern
+        location: Hawthorne, CA
+        start_date: 2020-06
+        end_date: 2020-08
+        highlights:
+          - Reduced both size and cost of a valve driver circuit by more than 55% and verified performance with a prototype design.
+
+      - company: Tesla
+        position: Power Electronics Intern
+        location: Palo Alto, CA
+        start_date: 2019-06
+        end_date: 2019-08
+        highlights:
+          - Used ANSYS Maxwell to perform design analysis on transformer designs in high-power DC-DC converters, optimizing for power density and efficiency.
+          - Characterized magnetic core materials across size and temperature to develop a material selection guide for future designs.
+
+      - company: Apple
+        position: Hardware Test Engineering Intern
+        location: Cupertino, CA
+        start_date: 2018-06
+        end_date: 2018-08
+        highlights:
+          - Developed a Linux-based diagnostics system that sped up the development cycle by reducing data acquisition time.
+          - Created power diagnostics for the Intel CPU, including verification of P- and C-States.
+
+    Teaching Experience:
+      - company: University of California, Berkeley
+        position: "Teaching Assistant — EE 213B: Graduate Power Electronics Design (Evaluation 6.98/7.0)"
+        location: Berkeley, CA
+        start_date: 2024-01
+        end_date: 2024-05
+
+      - company: University of California, Berkeley
+        position: "Teaching Assistant — EE 113B: Power Electronics Design (Evaluation 6.95/7.0)"
+        location: Berkeley, CA
+        start_date: 2024-01
+        end_date: 2024-05
+
+      - company: University of California, Berkeley
+        position: Research Mentor
+        location: Berkeley, CA
+        start_date: 2021-08
+        end_date: 2026-05
+        highlights:
+          - Supervised and mentored three undergraduate students on custom electronic load, high-voltage motor drive inverter, FCML converter heat sink, and dynamometer data processing projects.
+
+      - company: Formula SAE Electric, UC Berkeley
+        position: Graduate Student Advisor
+        location: Berkeley, CA
+        start_date: 2021-05
+        end_date: 2026-05
+        highlights:
+          - Educated students on engineering fundamentals including design/test practices and high-voltage safety.
+          - Held design reviews evaluating student projects and guided teams through project management to meet competition timelines.
+
+      - company: Massachusetts Institute of Technology
+        position: "Teaching Assistant — 6.002: Circuits and Electronics"
+        location: Cambridge, MA
+        start_date: 2020-08
+        end_date: 2020-12
+
+      - company: Massachusetts Institute of Technology
+        position: "Teaching Assistant — 6.302: Feedback System Design"
+        location: Cambridge, MA
+        start_date: 2020-01
+        end_date: 2020-05
+
+    Awards:
+      - title: Best Presentation Award
+        awarder: IEEE Applied Power Electronics Conference (APEC)
+        date: 2026-01-01
+        summary: For "Design and Implementation of a Three-Phase Eight-Level Flying Capacitor Multilevel Rectifier for Future Data Center Power Delivery."
+
+      - title: Outstanding Graduate Student Instructor Award
+        awarder: University of California, Berkeley
+        date: 2025-01-01
+
+      - title: Focus Fellow
+        awarder: Georgia Institute of Technology
+        date: 2025-01-01
+
+      - title: Best Paper Award
+        awarder: IEEE Workshop on Control and Modeling for Power Electronics (COMPEL)
+        date: 2024-01-01
+        summary: For "An Input Inductor Flying Capacitor Multilevel Converter Utilizing a Combined Power Factor Correcting and Active Voltage Balancing Control Technique for Buck-Type AC/DC Grid-Tied Applications."
+
+      - title: Invited Ph.D. Candidate
+        awarder: NextProf Nexus
+        date: 2024-01-01
+
+      - title: Invited Ph.D. Student
+        awarder: Notre Dame Future Faculty Workshop
+        date: 2023-01-01
+
+      - title: Hertz Fellow
+        awarder: The Hertz Foundation
+        date: 2022-01-01
+
+      - title: Research Slam 1st Place
+        awarder: Black Alumni of MIT
+        date: 2021-01-01
+
+      - title: Chancellor's Fellowship
+        awarder: University of California, Berkeley
+        date: 2021-01-01
+
+      - title: Best Presentation Award
+        awarder: IEEE Applied Power Electronics Conference (APEC)
+        date: 2021-01-01
+        summary: For "Design, Implementation, and Evaluation of High-Efficiency High-Power Radio-Frequency Inductors."
+
+      - title: Scholarship Recipient
+        awarder: IEEE Power and Energy Scholarship Plus Initiative
+        date: 2019-01-01
+
+    Publications:
+      - title: A Combined Power Factor Correcting and Active Voltage Balancing Control Technique for Buck-Type AC/DC Grid-Tied Flying Capacitor Multilevel Converters
+        authors:
+          - Roderick S. Bayliss III
+          - Nathan C. Brooks
+          - Robert C. N. Pilawa-Podgurski
+        publisher: IEEE Transactions on Power Electronics
+        releaseDate: 2026-07-01
+        url: https://ieeexplore.ieee.org/document/11389169
+
+      - title: Generalized Averaged Modeling of Capacitor Voltage Balancing Dynamics in Flying Capacitor Multilevel Converters
+        authors:
+          - Rahul K. Iyer
+          - Roderick S. Bayliss III
+          - Ivan Z. Petric
+          - Seth R. Sanders
+          - Robert C. N. Pilawa-Podgurski
+        publisher: IEEE Transactions on Power Electronics
+        releaseDate: 2025-12-01
+        url: https://ieeexplore.ieee.org/document/11082671/
+
+      - title: On the Role of Switch Output Capacitance on Passive Balancing Within the Flying Capacitor Multilevel Converter
+        authors:
+          - Roderick S. Bayliss III
+          - Nathan C. Brooks
+          - Robert C. N. Pilawa-Podgurski
+        publisher: IEEE Transactions on Power Electronics
+        releaseDate: 2025-02-01
+        url: https://escholarship.org/uc/item/1g1720kp
+
+      - title: A High-Bandwidth Parallel Active Balancing Controller for Current-Controlled Flying Capacitor Multilevel Converters
+        authors:
+          - Rahul K. Iyer
+          - Ivan Z. Petric
+          - Roderick S. Bayliss III
+          - Nathan C. Brooks
+          - Robert C. N. Pilawa-Podgurski
+        publisher: IEEE Transactions on Power Electronics
+        releaseDate: 2024-10-01
+        url: https://ieeexplore.ieee.org/document/10601504
+
+      - title: High-Performance High-Power Inductor Design for High-Frequency Applications
+        authors:
+          - Mansi V. Joisher
+          - Jiamei Wang
+          - Roderick S. Bayliss III
+          - Mike K. Ranjram
+          - Rachel S. Yang
+          - Alexander Jurkov
+          - David J. Perreault
+        publisher: IEEE Open Journal of Power Electronics
+        releaseDate: 2025-01-01
+        url: https://ieeexplore.ieee.org/document/11207142
+        summary: "Full publication list, including conference papers, is on the Publications page."
+
+    Service:
+      - name: Reviewer
+        summary: IEEE Transactions on Power Electronics, IEEE Journal of Emerging and Selected Topics in Power Electronics, IEEE APEC, IEEE COMPEL (2018–Present)
+        icon: fa-solid fa-magnifying-glass
+
+      - name: Summer Workshop Planning Committee Member
+        summary: The Hertz Foundation (2024–2025)
+        icon: fa-solid fa-people-group
+
+      - name: Research Superday Judge
+        summary: Black Alumni of MIT / NSBE Jr. (2025)
+        icon: fa-solid fa-gavel
+
+      - name: Graduate Admissions Student Reviewer, Energy Area
+        summary: University of California, Berkeley (2025)
+        icon: fa-solid fa-file-signature
+
+      - name: Social Chair
+        summary: IEEE PES/PELS UC Berkeley Student Chapter (2021)
+        icon: fa-solid fa-users

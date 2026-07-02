@@ -1,0 +1,5 @@
+# Add entries here to auto-link co-author names in your publications list to their websites.
+# Example:
+# "brooks":
+#   - firstname: ["Nathan", "N. C.", "Nathan C."]
+#     url: https://example.com
